@@ -1,5 +1,5 @@
 # Create an xpath to the href attributes
-xpath = '//a[contains(class, package-snippet)]/@href'
+xpath = '//a[contains(@class, "package-snippet")]/@href'
 
 # Print out how many elements are selected
 how_many_elements( xpath )
