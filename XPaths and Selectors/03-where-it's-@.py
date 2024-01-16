@@ -2,4 +2,4 @@
 xpath = '//*[@id="div3"]/p'
 
 # Print out selection text
-print_element_text( xpath )
+print_element_text(xpath)
