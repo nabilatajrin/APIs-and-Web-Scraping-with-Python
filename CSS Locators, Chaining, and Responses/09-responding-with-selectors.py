@@ -12,3 +12,5 @@ for i in range( min(nr, ns, 2) ):
   print( "Element %d from response: %s" % (i+1, response_as[i]) )
   print( "Element %d from sel: %s" % (i+1, sel_as[i]) )
   print( "" )
+
+
